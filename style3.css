@@ -38,7 +38,7 @@ nav{
 footer{
     grid-column: 1/13;
 }
-/* .grid{
+.grid{
     display: grid;
     position: absolute;
     top: 0;
@@ -55,4 +55,4 @@ footer{
     background: #fff;
     margin: 0;
     opacity: 0.2;
-} */
+}
